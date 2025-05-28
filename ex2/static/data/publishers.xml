@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Publishers xmlns="http://localhost:8000/library/publishers">
+    <Publisher id="p1">
+        <Name>Penguin Books</Name>
+    </Publisher>
+    <Publisher id="p2">
+        <Name>J.B. Lippincott &amp; Co.</Name>
+    </Publisher>
+    <Publisher id="p3">
+        <Name>T. Egerton</Name>
+    </Publisher>
+    <Publisher id="p4">
+        <Name>Secker and Warburg</Name>
+    </Publisher>
+    <Publisher id="p5">
+        <Name>Penguin Life</Name>
+    </Publisher>
+    <!-- Add more publishers as needed -->
+</Publishers>

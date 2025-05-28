@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Authors xmlns="http://localhost:8000/library/authors">
+    <Author id="a1">
+        <Name>George Orwell</Name>
+    </Author>
+    <Author id="a2">
+        <Name>Harper Lee</Name>
+    </Author>
+    <Author id="a3">
+        <Name>Jane Austen</Name>
+    </Author>
+    <Author id="a4">
+        <Name>Francesc Miralles and Hector Garcia</Name>
+    </Author>
+    <!-- Add more authors as needed -->
+</Authors>
