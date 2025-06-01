@@ -1,6 +1,5 @@
 DROP TABLE IF EXISTS borrow, book, author, publisher, genre, member, "user" CASCADE;
 
--- USERS
 CREATE TABLE "user" (
   user_id       SERIAL PRIMARY KEY,
   username      VARCHAR NOT NULL UNIQUE,
@@ -46,9 +45,9 @@ CREATE TABLE book (
 );
 
 CREATE TABLE borrow (
-  borrow_id   SERIAL    PRIMARY KEY,
-  book_id     INTEGER   NOT NULL REFERENCES book(book_id),
-  member_id   INTEGER   NOT NULL REFERENCES member(member_id),
-  borrow_date DATE      NOT NULL,
-  return_date DATE
+  borrow_id     SERIAL   PRIMARY KEY,
+  book_id       INTEGER  NOT NULL REFERENCES book(book_id),
+  borrower_name VARCHAR  NOT NULL,
+  borrow_date   DATE     NOT NULL,
+  return_date   DATE
 );
