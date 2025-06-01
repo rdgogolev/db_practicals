@@ -1,0 +1,12 @@
+2025-06-01 13:28:22.977+0000 INFO  Logging config in use: File 'C:\Users\roman_h182jh5\OneDrive - Technische Hochschule Ingolstadt\DB\db_practicals\ex3\instance\neo4j-community-2025.04.0\conf\user-logs.xml'
+2025-06-01 13:28:23.040+0000 INFO  Starting...
+2025-06-01 13:28:24.838+0000 INFO  This instance is ServerId{1eca740b} (1eca740b-8154-45ca-ad4a-e69a5c9d05bd)
+2025-06-01 13:28:26.349+0000 INFO  ======== Neo4j 2025.04.0 ========
+2025-06-01 13:28:28.668+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-06-01 13:28:29.887+0000 INFO  Bolt enabled on localhost:7687.
+2025-06-01 13:28:30.857+0000 INFO  HTTP enabled on localhost:7474.
+2025-06-01 13:28:30.859+0000 INFO  Remote interface available at http://localhost:7474/
+2025-06-01 13:28:30.865+0000 INFO  id: DDD95E55C3B628C68BA76C4CD8C1FE71F25FCDC97EA03155E1046D77A0F03EA9
+2025-06-01 13:28:30.867+0000 INFO  name: system
+2025-06-01 13:28:30.868+0000 INFO  creationDate: 2025-06-01T13:28:27.81Z
+2025-06-01 13:28:30.869+0000 INFO  Started.
